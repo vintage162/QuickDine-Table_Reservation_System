@@ -1,0 +1,19 @@
+.login-container {
+    height: 90vh;
+  }
+  
+  .login-card {
+    width: 450px;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .forgot-link {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .forgot-link:hover {
+    text-decoration: underline;
+  }
+  

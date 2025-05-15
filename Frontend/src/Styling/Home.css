@@ -1,0 +1,19 @@
+.hero-section {
+    position: relative;
+    width: 100%;
+    height: 90vh;
+    background: url("../imgs/bgdining.jpg") no-repeat center center/cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+/* Overlay Div */
+.hero-overlay {
+    background: rgba(0, 0, 0, 0.352); /* Dark overlay effect */
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
